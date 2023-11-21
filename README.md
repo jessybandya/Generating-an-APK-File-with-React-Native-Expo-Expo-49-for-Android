@@ -72,4 +72,5 @@ This command will start the build process and generate the APK file for Android.
 
 Kindly make sure there's no collision of dependancies' versions especially navigation dependancies to avoid build failure.
 
-#HAPPY CODING
+
+ # HAPPY CODING
